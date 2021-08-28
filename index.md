@@ -1,11 +1,11 @@
 # Jean-Pierre's First CS193 Homework
 
 ### Favorite Things About CS193 
-Very organized
+-Very organized
 
-Amazing student TAs
+-Amazing student TAs
 
-Good size class
+-Good size class
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
