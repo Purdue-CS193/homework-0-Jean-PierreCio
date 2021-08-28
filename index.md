@@ -1,6 +1,6 @@
 # Jean-Pierre's First CS193 Homework
 
-## Favorite Things About CS193 
+### Favorite Things About CS193 
 Very organized
 Amazing student TAs
 Good size class
